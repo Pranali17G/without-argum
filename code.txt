@@ -1,0 +1,9 @@
+MOV R
+RAHUL
+DCR R
+AND R
+RAHUL
+MUL 88
+HALT
+
+///Add this in code.txt
